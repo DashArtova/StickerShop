@@ -1,1 +1,1 @@
-# StickerShop
+# empty
